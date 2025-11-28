@@ -49,9 +49,3 @@ By completing this project, I learned how to:
 - **IBM Security Cost of a Data Breach Report 2022**
 
 ---
-
-## Screenshots or References
-*(Include annotated forms, key excerpts, or visuals from the documents if permitted)*
-
----
-
